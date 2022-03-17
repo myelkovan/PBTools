@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Murat.
-I updated PbTools. You can use it for PowerBuilder 2021
+I updated PbTools. You can use it for PowerBuilder 6.0 to 2021
 
 
 - 👀 I’m PowerBuilder Expert
