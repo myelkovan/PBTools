@@ -6,7 +6,6 @@ To install it first close PowerBuilder, install PBTools and then run PowerBuilde
 PBTools is a free Application that provides some useful tools for PowerBuilder from version 6 to 2022.  After installing PBTools, you will see new icons on the PowerBuilder toolbar. 
  
 <b>Grid Datawindow     :</b> Change the color and shape the header of the grid datawindows with single click.
-
 <b>Compare Object      :</b> Compares two libraries or projects and show the same objects list to compare codes. 
 
 <b>Find Double Object  :</b> Finds double objects in the project.
