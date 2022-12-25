@@ -5,8 +5,11 @@ PBTools is a free Application that provides some useful tools for PowerBuilder f
 
  
 <b>Grid Datawindow     :</b> Change the color and shape the header of the grid datawindows with single click.
+
 <b>Compare Object      :</b> Compares two libraries or projects and show the same objects list to compare codes. 
+
 <b>Find Double Object  :</b> Finds double objects in the project.
+
 <b>Dynamic Script      :</b> Run dynamic PowerBuilder scripts for all datawindows. For example you can change all the edit styles in datawindows at the same time.
 
 <b>Global Replace      :</b> Replace any word in the project. PBTools can export the modified object or alter directly the libraries.
