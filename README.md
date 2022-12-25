@@ -1,11 +1,3 @@
-- 👋 Hi, I’m Murat.
-I updated PbTools. You can use it for PowerBuilder 6.0 to 2021
+PBTools for PowerBuilder 6.0 to 2022.
 
-
-- 👀 I’m PowerBuilder Expert
-- 📫 How to reach me muratyelkovan@yahoo.com
-
-<!---
-myelkovan/myelkovan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+To install it first close PowerBuilder, install PBTools and then run PowerBuilder. You will see new toolbar.
