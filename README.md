@@ -1,4 +1,4 @@
-<b>PBTools for PowerBuilder 6.0 to 2022.</b>
+<b>PBTools for PowerBuilder 6.0 to 2024.</b>
 
 <b>Description</b>
 PBTools is a free Application that provides some useful tools for PowerBuilder from version 6 to 2022.  After installing PBTools, you will see new icons on the PowerBuilder toolbar. To install it first close PowerBuilder, install PBTools and then run PowerBuilder. You will see new toolbar.
